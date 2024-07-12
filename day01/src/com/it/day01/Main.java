@@ -17,6 +17,31 @@ public class Main {
         ×  空格  关键字保留字   大括号范围内，标识符不允许重复
         ※ 标识符区分大小写  驼峰标识userName
 
+        TODO  2024.7.12笔记（P13-P1）
+        1.基本数据类型
+        ①数值类型
+        整数类型：byte(8位) short(16位) int(32位) long(64位)
+                int age = 28;
+        浮点类型（小数）：float（赋值后的数字后面加F，否则会报错）   double（默认）
+                float score = 59.9F;
+        ②字符类型：char
+               char c ='A';
+        ③布尔类型：true false 判断条件是否成立
+               boolean bln =true;
+        2.引用数据类型
+        可以被引用的数据类型
+        String s = "abc";
+        3.数据类型转换
+        ①范围小的数据可以直接转换为范围大的数据，但是范围大的数据无法直接转换为范围小的数据（浮点类型比整数类型大）
+        byte b = 10;
+        short s = b;
+        int i = s;
+        long lon = i;
+        float f =lon ;
+        double d = f;
+        ②强制转换（范围大的数据转换为范围小的数据，需要使用小括号进行强制转换）
+        int i1 = (int)d;
+
 
                  */
 
