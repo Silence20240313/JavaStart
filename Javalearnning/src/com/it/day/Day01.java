@@ -1,6 +1,6 @@
-package com.it.day01;
+package com.it.day;
 
-public class Main {
+public class Day01 {
     public static void main(String[] args) {
         /*
         TODO  2024.7.11笔记（P1-P12）
