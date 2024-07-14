@@ -1,6 +1,6 @@
 package com.it.day;
 
-public class Day02 {
+public class D02 {
     public static void main(String[] args) {
         //TODO  2024.7.13笔记
         /*流程控制:

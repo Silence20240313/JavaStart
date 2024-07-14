@@ -1,6 +1,6 @@
 package com.it.day;
 
-public class Day04 {
+public class D04 {
     public static void main(String[] args) {
         //TODO  面向对象
         //分析问题时，以问题所涉及到的事或物为中心的分析方式

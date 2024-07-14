@@ -1,6 +1,6 @@
 package com.it.day;
 
-public class Day02Test {
+public class D02Test {
     public static void main(String[] args) {
         //TODO  分支执行-练习
         //int age = 45;

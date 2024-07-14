@@ -1,6 +1,6 @@
 package com.it.day;
 
-public class Day04Test1 {
+public class D04Test1 {
     public static void main(String[] args) {
         //面向对象
         //狗；2只 小黑 小白

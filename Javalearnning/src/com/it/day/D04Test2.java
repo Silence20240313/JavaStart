@@ -1,6 +1,6 @@
 package com.it.day;
 
-public class Day04Test2 {
+public class D04Test2 {
     public static void main(String[] args) {
         //面向对象
 

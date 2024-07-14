@@ -1,6 +1,6 @@
 package com.it.day;
 
-public class Day04Test {
+public class D04Test {
     public static void main(String[] args) {
         //TODO 面向对象
         //类:动物
